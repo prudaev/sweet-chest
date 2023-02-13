@@ -1,2 +1,3 @@
 # sweet-chest
-this site is not responsive
+---
+This site is not responsive.
